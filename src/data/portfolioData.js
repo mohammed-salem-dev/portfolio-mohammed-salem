@@ -93,31 +93,31 @@ export const projects = [
 
 export const research = [
   {
-    title: "Enhanced ML-Based Detection of Deserialization Vulnerabilities",
+    title: "Enhanced Machine Learning–Based Detection of Deserialization Vulnerabilities in Malicious Network Traffic",
     conference:
       "16th International Conference on Computing, Communication and Networking Technologies (ICCCNT 2025)",
-    status: "Under Publication", // ← Changed from "Published"
+    status: "Under Publication", 
     year: "2025",
     borderColor: "var(--primary)",
     certificateImage: "/certificates/deserialization.png",
   },
   {
-    title: "Explainable Hybrid ML Approach for Early Diabetes Prediction",
+    title: "An Explainable Hybrid Machine Learning Approach for Early Diabetes Prediction: Comprehensive Feature Engineering and Multi-Model Analysis",
     conference:
       "International Conference on Data Technologies and Digital Economy (ICDTDE 2025)",
-    status: "Under Publication", // ← Changed from "Published"
+    status: "Under Publication", 
     year: "2025",
     borderColor: "var(--primary)",
     certificateImage: "/certificates/diabetes.png",
   },
   {
-    title: "ML-Based Path Loss Modeling for IEEE 802.15.4 Networks",
+    title: "Long-Term IEEE 802.15.4 Propaga tion Modeling in Millet Fields Using Machine Learning",
     conference:
       "International Conference on Computational Intelligence, Algorithms and Applications (ICCIAA 2026)",
     status: "Under Review",
     year: "2026",
     borderColor: "#f59e0b",
-    // No certificate yet
+  
   },
 ];
 
